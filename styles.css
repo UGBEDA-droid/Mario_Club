@@ -1,0 +1,71 @@
+div.header{
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+div.header h1{
+    border: white 6px solid;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 30px;
+}
+div.links{
+background-color: grey;
+padding: 15px;
+text-align: center;
+}
+div.links a {
+    color: white;
+    text-decoration-line: none;
+    margin: 150px;
+    font-weight: bold;
+}
+div.main-content {
+    text-align: center;
+}
+div.main-content h1{
+    color: red;
+    font-size: 45px;
+}
+div.main-content p{
+    text-align: justify;
+    font-size: 30px;
+    margin: 40px;
+}
+div.contact{
+    background-color: rgb(189, 184, 184);
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+div.contact p{
+    font-size: 40px;
+    border: red 6px solid;
+    border-radius: 30px;
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+}
+div.copyright{
+    background-color: red;
+    text-align: center;
+    padding: 8px;
+    color: white;
+    font-size: 20px;
+}
+div.image-container{
+    text-align: center;
+    color: red; 
+}
+div.image-container img{
+    margin:8px;
+    border-bottom: 8px red solid;
+}
+div.contact-form {
+    text-align: center;
+}
+div.contact-form h1{
+    color: red;
+    text-align: center;
+}
